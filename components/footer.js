@@ -5,17 +5,17 @@ const Footer = () => {
     {
       id: "twitter",
       name: "Twitter",
-      url: "https://twitter.com/vijayhardaha",
+      url: "https://twitter.com/",
     },
     {
       id: "github",
       name: "Github",
-      url: "https://github.com/vijayhardaha/",
+      url: "https://github.com/Ishan-EXE/",
     },
     {
       id: "pph",
-      name: "Hire Me",
-      url: "https://pph.me/vijayhardaha/",
+      name: "Contact Me",
+      url: "https://telegram.dog/IshanAvasthi",
     },
   ];
 
@@ -39,7 +39,7 @@ const Footer = () => {
             <div className="col-12">
               <div className="footer-inner">
                 <div className="copyright">
-                  <p>&copy; {`2020-${year} Vijay Hardaha`}</p>
+                  <p>&copy; {`2020-${year} Ishan Avasthi`}</p>
                 </div>
                 <div className="social-links">
                   <ul>
