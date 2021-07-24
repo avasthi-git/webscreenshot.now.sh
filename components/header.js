@@ -8,8 +8,8 @@ import { FaTwitter } from "react-icons/fa";
  */
 
 const Header = () => {
-  const text = "Create fast #Screenshots with #WebScreenshot by @vijayhardaha";
-  const url = "https://webscreenshot.now.sh";
+  const text = "Create fast #Screenshots with #WebScreenshot by @IshanAvasthi";
+  const url = "https://iwebscreenshot.netlify.app";
 
   const params = {
     url: url,
